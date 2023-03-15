@@ -8,4 +8,4 @@ Este repositório está organizado em pastas, cada uma delas contendo soluções
 
 # Referências
 * [LeetCode](https://leetcode.com/)
-* [Documentação do GitHub](https://docs.github.com/)
+
