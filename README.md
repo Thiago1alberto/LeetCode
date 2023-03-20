@@ -1,4 +1,4 @@
-# Repositório de Códigos do LeetCode
+# Repositório de Códigos do LeetCode #
 Este repositório pretende armazenar soluções para problemas do LeetCode. O LeetCode é uma plataforma de ensino online que oferece uma ampla variedade de problemas de programação, divididos em diversas categorias.
 
 Os códigos neste repositório serão escritos em diferentes linguagens de programação, incluindo Python, Java e C++. Cada solução é acompanhada de comentários explicando a lógica por trás da abordagem escolhida e do código implementado.
